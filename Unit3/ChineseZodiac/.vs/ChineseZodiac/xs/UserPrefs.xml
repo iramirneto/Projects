@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{10A751B0-E469-490B-BC9F-FCA3C48DAF07}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChineseZodiac/ChineseZodiac.cs">
+    <Files>
+      <File FileName="ChineseZodiac/Program.cs" Line="29" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChineseZodiac" expanded="True">
+            <Node name="ChineseZodiac" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChineseZodiac PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

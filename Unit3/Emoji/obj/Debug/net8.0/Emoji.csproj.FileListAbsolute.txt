@@ -1,0 +1,14 @@
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/bin/Debug/net8.0/Emoji
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/bin/Debug/net8.0/Emoji.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/bin/Debug/net8.0/Emoji.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/bin/Debug/net8.0/Emoji.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/bin/Debug/net8.0/Emoji.pdb
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/Emoji.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/Emoji.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/Emoji.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/Emoji.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/Emoji.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/refint/Emoji.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/Emoji.pdb
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/Emoji.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/Emoji/obj/Debug/net8.0/ref/Emoji.dll

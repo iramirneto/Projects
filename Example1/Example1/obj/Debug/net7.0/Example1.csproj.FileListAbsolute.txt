@@ -1,0 +1,15 @@
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/bin/Debug/net7.0/Example1
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/bin/Debug/net7.0/Example1.deps.json
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/bin/Debug/net7.0/Example1.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/bin/Debug/net7.0/Example1.dll
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/bin/Debug/net7.0/Example1.pdb
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/Example1.csproj.AssemblyReference.cache
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/Example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/Example1.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/Example1.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/Example1.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/Example1.dll
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/refint/Example1.dll
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/Example1.pdb
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/Example1.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Example1/Example1/obj/Debug/net7.0/ref/Example1.dll

@@ -1,0 +1,11 @@
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/Debug/net8.0/MyAveLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/Debug/net8.0/MyAveLib.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/Debug/net8.0/MyAveLib.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/Debug/net8.0/MyAveLib.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/bin/Debug/net8.0/MyAveLib.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/bin/Debug/net8.0/MyAveLib.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/bin/Debug/net8.0/MyAveLib.pdb
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/Debug/net8.0/MyAveLib.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/Debug/net8.0/refint/MyAveLib.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/Debug/net8.0/MyAveLib.pdb
+/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/Debug/net8.0/ref/MyAveLib.dll

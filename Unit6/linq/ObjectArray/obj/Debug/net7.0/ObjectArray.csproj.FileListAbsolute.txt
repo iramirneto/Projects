@@ -1,0 +1,15 @@
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/bin/Debug/net7.0/ObjectArray
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/bin/Debug/net7.0/ObjectArray.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/bin/Debug/net7.0/ObjectArray.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/bin/Debug/net7.0/ObjectArray.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/bin/Debug/net7.0/ObjectArray.pdb
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ObjectArray.csproj.AssemblyReference.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ObjectArray.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ObjectArray.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ObjectArray.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ObjectArray.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/refint/ObjectArray.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ObjectArray.pdb
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ObjectArray.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/ObjectArray/obj/Debug/net7.0/ref/ObjectArray.dll

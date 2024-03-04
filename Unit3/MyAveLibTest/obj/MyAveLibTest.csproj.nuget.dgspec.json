@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLibTest/MyAveLibTest.csproj": {}
+  },
+  "projects": {
+    "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/MyAveLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/MyAveLib.csproj",
+        "projectName": "MyAveLib",
+        "projectPath": "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/MyAveLib.csproj",
+        "packagesPath": "/Users/iramirneto/.nuget/packages/",
+        "outputPath": "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iramirneto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLibTest/MyAveLibTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLibTest/MyAveLibTest.csproj",
+        "projectName": "MyAveLibTest",
+        "projectPath": "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLibTest/MyAveLibTest.csproj",
+        "packagesPath": "/Users/iramirneto/.nuget/packages/",
+        "outputPath": "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLibTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iramirneto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/MyAveLib.csproj": {
+                "projectPath": "/Users/iramirneto/CPS3330/Projects/Unit3/MyAveLib/MyAveLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

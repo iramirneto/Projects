@@ -1,0 +1,15 @@
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/bin/Debug/net7.0/CreateAClass
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/bin/Debug/net7.0/CreateAClass.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/bin/Debug/net7.0/CreateAClass.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/bin/Debug/net7.0/CreateAClass.dll
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/bin/Debug/net7.0/CreateAClass.pdb
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/CreateAClass.csproj.AssemblyReference.cache
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/CreateAClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/CreateAClass.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/CreateAClass.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/CreateAClass.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/CreateAClass.dll
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/refint/CreateAClass.dll
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/CreateAClass.pdb
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/CreateAClass.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit4/CreateAClass/CreateAClass/obj/Debug/net7.0/ref/CreateAClass.dll

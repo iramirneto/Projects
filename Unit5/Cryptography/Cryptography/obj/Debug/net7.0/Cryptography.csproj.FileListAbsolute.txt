@@ -1,0 +1,15 @@
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/bin/Debug/net7.0/Cryptography
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/bin/Debug/net7.0/Cryptography.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/bin/Debug/net7.0/Cryptography.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/bin/Debug/net7.0/Cryptography.dll
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/bin/Debug/net7.0/Cryptography.pdb
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/Cryptography.csproj.AssemblyReference.cache
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/Cryptography.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/Cryptography.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/Cryptography.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/Cryptography.dll
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/refint/Cryptography.dll
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/Cryptography.pdb
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/Cryptography.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit5/Cryptography/Cryptography/obj/Debug/net7.0/ref/Cryptography.dll

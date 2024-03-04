@@ -1,0 +1,14 @@
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/bin/Debug/net8.0/NetworkTestProgram
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/bin/Debug/net8.0/NetworkTestProgram.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/bin/Debug/net8.0/NetworkTestProgram.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/bin/Debug/net8.0/NetworkTestProgram.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/bin/Debug/net8.0/NetworkTestProgram.pdb
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/NetworkTestProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/NetworkTestProgram.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/NetworkTestProgram.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/NetworkTestProgram.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/NetworkTestProgram.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/refint/NetworkTestProgram.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/NetworkTestProgram.pdb
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/NetworkTestProgram.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/NetworkTestProgram/obj/Debug/net8.0/ref/NetworkTestProgram.dll

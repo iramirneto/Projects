@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3BB25EED-4E49-4981-A1B2-D77C339EE0D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Unit2/Challenge1/DisplayMeasurement">
+    <Files>
+      <File FileName="../Unit2/Challenge1/DisplayMeasurement" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unit1" expanded="True">
+            <Node name="TestRoot" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TestRoot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

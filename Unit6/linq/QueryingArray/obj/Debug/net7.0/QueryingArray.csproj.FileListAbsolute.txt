@@ -1,0 +1,15 @@
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/bin/Debug/net7.0/QueryingArray
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/bin/Debug/net7.0/QueryingArray.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/bin/Debug/net7.0/QueryingArray.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/bin/Debug/net7.0/QueryingArray.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/bin/Debug/net7.0/QueryingArray.pdb
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/QueryingArray.csproj.AssemblyReference.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/QueryingArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/QueryingArray.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/QueryingArray.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/QueryingArray.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/QueryingArray.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/refint/QueryingArray.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/QueryingArray.pdb
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/QueryingArray.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/QueryingArray/obj/Debug/net7.0/ref/QueryingArray.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestRoot/1.0.0": {
+        "dependencies": {
+          "Unit1": "1.0.0"
+        },
+        "runtime": {
+          "TestRoot.dll": {}
+        }
+      },
+      "Unit1/1.0.0": {
+        "runtime": {
+          "Unit1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestRoot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unit1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

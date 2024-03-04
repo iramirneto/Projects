@@ -1,0 +1,14 @@
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/bin/Debug/net7.0/Challenge1
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/bin/Debug/net7.0/Challenge1.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/bin/Debug/net7.0/Challenge1.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/bin/Debug/net7.0/Challenge1.dll
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/bin/Debug/net7.0/Challenge1.pdb
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/Challenge1.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/Challenge1.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/Challenge1.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/Challenge1.dll
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/refint/Challenge1.dll
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/Challenge1.pdb
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/Challenge1.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit2/Challenge1/Challenge1/obj/Debug/net7.0/ref/Challenge1.dll

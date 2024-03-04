@@ -1,0 +1,15 @@
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/bin/Debug/net7.0/ChineseZodiac
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/bin/Debug/net7.0/ChineseZodiac.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/bin/Debug/net7.0/ChineseZodiac.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/bin/Debug/net7.0/ChineseZodiac.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/bin/Debug/net7.0/ChineseZodiac.pdb
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ChineseZodiac.csproj.AssemblyReference.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ChineseZodiac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ChineseZodiac.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ChineseZodiac.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ChineseZodiac.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ChineseZodiac.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/refint/ChineseZodiac.dll
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ChineseZodiac.pdb
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ChineseZodiac.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit3/ChineseZodiac/ChineseZodiac/obj/Debug/net7.0/ref/ChineseZodiac.dll

@@ -1,0 +1,15 @@
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/bin/Debug/net7.0/linq
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/bin/Debug/net7.0/linq.deps.json
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/bin/Debug/net7.0/linq.runtimeconfig.json
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/bin/Debug/net7.0/linq.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/bin/Debug/net7.0/linq.pdb
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/linq.csproj.AssemblyReference.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/linq.AssemblyInfoInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/linq.AssemblyInfo.cs
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/linq.csproj.CoreCompileInputs.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/linq.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/refint/linq.dll
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/linq.pdb
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/linq.genruntimeconfig.cache
+/Users/iramirneto/CPS3330/Projects/Unit6/linq/linq/obj/Debug/net7.0/ref/linq.dll
